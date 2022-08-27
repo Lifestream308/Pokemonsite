@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 5%;
+    background-color: cornsilk;
+}
+
+.wrapper {
+    display: block;
+}
+
+.container {
+    display: flex;
+}
+.imgContainer {
+    width: 8.5rem;
+    text-align: center;
+}
+.imgContainer img {
+    padding:  0 0 0 0;
+}
+
+.details {
+    padding-left: 2rem;
+}
